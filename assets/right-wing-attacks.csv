@@ -1,4 +1,4 @@
-﻿ID,Name,Where?,City or region,Country,Date,Year,Physical injuries,Deaths,Perpetrators,What happened?,Read more,Lat,Long
+﻿id,title,where,city,country,date,year,injuries,deaths,perpetrators,what,read more,latitude,longitude
 1,Vitry-Le-François train bombing,Strasbourg–Paris train,Blacy,France,18 June,1961,100+,28,Organisation armée secrète (OAS),Bomb attack on a Strasbourg–Paris train,https://en.wikipedia.org/wiki/1961_Vitry-Le-Fran%C3%A7ois_train_bombing,48.73,4.55
 2,Piazza Fontana bombing,Banca Nazionale dell'Agricoltura,Milan,Italy,12 December,1969,88,16,Ordine Nuovo,A bomb exploded at the headquarters of Banca Nazionale dell'Agricoltura (National Agrarian Bank) in Piazza Fontana,https://www.theguardian.com/world/2001/jul/02/philipwillan,45.4642,9.1913
 3,Italicus Express bombing,San Benedetto Val di Sambro,San Benedetto Val di Sambro,Italy,4 August,1974,48,12,Ordine Nero,Bombing in Italy on a train of the public rail network.,https://en.wikipedia.org/wiki/Italicus_Express_bombing,44.2140,11.2356
